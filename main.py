@@ -17,5 +17,3 @@ while eingabe != "Beenden":
     ]
   )
   print(f"Output: {response.choices[0].message.content}\n")
-
-#hallo welt
